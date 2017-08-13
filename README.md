@@ -16,3 +16,5 @@ Slides from talk given on Tuesday August 2nd, 2017 at the Denver Open Source Use
 
 This slideshow was written using [reveal.js](https://github.com/hakimel/reveal.js)
 
+The interactive diagrams were implemented with [d3](https://d3js.org) and [Hierarchical Edge Bundling](https://bl.ocks.org/mbostock/7607999)
+
