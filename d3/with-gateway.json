@@ -1,0 +1,151 @@
+[
+  {
+    "name": "client.smartphone",
+    "size": 3938,
+    "imports": [
+      "api-gateway"
+    ]
+  },
+  {
+    "name": "client.tablet",
+    "size": 3938,
+    "imports": [
+      "api-gateway"
+    ]
+  },
+  {
+    "name": "client.laptop",
+    "size": 3938,
+    "imports": [
+      "api-gateway"
+    ]
+  },
+  {
+    "name": "api-gateway",
+    "size": 3812,
+    "imports": [
+      "service.auth",
+      "service.book",
+      "service.cart",
+      "service.data",
+      "service.unit",
+      "service.vendor",
+      "service.workflow",
+      "service.x",
+      "service.yield",
+      "service.zipCode"
+    ]
+  },
+  {
+    "name": "service.auth",
+    "size": 3812,
+    "imports": [
+      "api-gateway"
+    ]
+  },
+  {
+    "name": "service.book",
+    "size": 3812,
+    "imports": [
+      "api-gateway"
+    ]
+  },
+  {
+    "name": "service.cart",
+    "size": 6714,
+    "imports": [
+      "api-gateway"
+    ]
+  },
+  {
+    "name": "service.data",
+    "size": 3534,
+    "imports": [
+      "api-gateway"
+    ]
+  },
+  {
+    "name": "service.unit",
+    "size": 7840,
+    "imports": [
+      "database.unit"
+    ]
+  },
+  {
+    "name": "service.vendor",
+    "size": 7840,
+    "imports": [
+      "database.vendor"
+    ]
+  },
+  {
+    "name": "service.workflow",
+    "size": 7840,
+    "imports": [
+      "database.workflow"
+    ]
+  },
+  {
+    "name": "service.x",
+    "size": 7840,
+    "imports": [
+      "database.x"
+    ]
+  },
+  {
+    "name": "service.yield",
+    "size": 7840,
+    "imports": [
+      "database.yield"
+    ]
+  },
+  {
+    "name": "service.zipCode",
+    "size": 7840,
+    "imports": [
+      "database.zipCode"
+    ]
+  },
+  {
+    "name": "database.unit",
+    "size": 5914,
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "database.vendor",
+    "size": 5914,
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "database.workflow",
+    "size": 5914,
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "database.x",
+    "size": 5914,
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "database.yield",
+    "size": 5914,
+    "imports": [
+
+    ]
+  },
+  {
+    "name": "database.zipCode",
+    "size": 5914,
+    "imports": [
+
+    ]
+  }
+]
