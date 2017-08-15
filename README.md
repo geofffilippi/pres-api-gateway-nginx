@@ -10,9 +10,9 @@ Slides from talk given on Tuesday August 2nd, 2017 at the Denver Open Source Use
 
 >We will show how to set up NGINX as an API Gateway. We will dive into the configuration and operation of NGINX. 
 
-[Markdown]('api-gateway-nginx.md')
+[Markdown](api-gateway-nginx.md)
 
-[PDF]('Microservice API Gateways with NGINX.pdf')
+[PDF](Microservice%20API%20Gateways%20with%20NGINX.pdf)
 
 This slideshow was written using [reveal.js](https://github.com/hakimel/reveal.js)
 
